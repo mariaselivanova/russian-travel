@@ -19,11 +19,6 @@
 @media screen and (max-width: 790px) {
   .intro {
     margin: auto;
-  }
-}
-
-@media screen and (max-width: 700px) {
-  .intro {
     padding-left: 16px;
     padding-bottom: 16px;
     box-sizing: border-box;
