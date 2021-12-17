@@ -6,16 +6,26 @@
 @media screen and (max-width: 1140px) {
   .intro {
     max-width: 720px;
-    margin-left: 0;
+    margin-left: 48px;
   }
 }
 
 @media screen and (max-width: 984px) {
   .intro {
     max-width: 720px;
-    margin-left: auto;
-    margin-right: auto;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .intro {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .intro {
     padding-left: 16px;
+    padding-bottom: 16px;
     box-sizing: border-box;
   }
 }
