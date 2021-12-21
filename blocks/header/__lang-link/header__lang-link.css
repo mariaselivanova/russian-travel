@@ -8,6 +8,15 @@
   max-width: 30px;
   margin: 0 0 0 18px;
   padding: 0;
+  transition: opacity .3s linear;
+}
+
+.header__lang-link:active {
+  text-decoration: underline;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 568px) {
