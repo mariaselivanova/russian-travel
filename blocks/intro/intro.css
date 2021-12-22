@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1040px) {
   .intro {
     max-width: 720px;
     margin-left: 48px;
@@ -19,12 +19,12 @@
 @media screen and (max-width: 790px) {
   .intro {
     margin: auto;
-    box-sizing: border-box;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 750px) {
   .intro {
     padding-left: 16px;
+    box-sizing: border-box;
   }
 }
