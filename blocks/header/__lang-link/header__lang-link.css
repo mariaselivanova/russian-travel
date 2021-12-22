@@ -11,10 +11,6 @@
   transition: opacity .3s linear;
 }
 
-.header__lang-link:active {
-  text-decoration: underline;
-}
-
 .header__lang-link:hover {
   opacity: .8;
 }

@@ -1,13 +1,13 @@
 .place__paragraph {
-  margin: 0;
+  margin: 0 0 26px;
 }
 
-.place__paragraph:first-of-type {
-  margin-bottom: 26px;
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 712px) {
   .place__paragraph {
-    max-width: 90%;
+    max-width: 288px;
   }
 }

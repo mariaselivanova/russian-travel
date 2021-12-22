@@ -1,5 +1,4 @@
 .footer {
-  min-height: 18px;
   max-width: 1184px;
   width: 100%;
   display: flex;
@@ -27,7 +26,6 @@
   .footer {
     max-width: 200px;
     flex-direction: column;
-    min-height: 310px;
     margin-top: 64px;
     margin-left: 0;
   }
